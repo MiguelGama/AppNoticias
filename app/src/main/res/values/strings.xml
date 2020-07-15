@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppNoticias</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Miguel Vieira</string>
+    <string name="nav_header_subtitle">aureliomiguelgama@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuração</string>
+
+    <string name="menu_home">Últimas Notícias</string>
+    <string name="menu_gallery">Lidas</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+</resources>
